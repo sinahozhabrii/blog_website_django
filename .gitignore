@@ -1,0 +1,6 @@
+*.idea
+*.sqlite3
+venv/Lib/
+venv/Scripts/
+venv/pyvenv.cfg
+__pycache__/
